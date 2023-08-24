@@ -8,5 +8,4 @@ WIP
 ## To do:
 * Clean up
 * More things in variables
-* Include original light theme
 * Touch-ups here and there
